@@ -2,3 +2,5 @@ c2clat
 c2clat.csv
 c2clat.pdf
 archis
+compile_commands.json
+.cache
