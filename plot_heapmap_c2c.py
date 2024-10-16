@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 
 # Part of this code source comes from https://github.com/nviennot/core-to-core-latency using MIT license
 
